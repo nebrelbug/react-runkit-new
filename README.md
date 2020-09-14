@@ -1,5 +1,7 @@
 # react-runkit-new
 
+**Note: I'm archiving this for now because of a lack of time, and because recent improvements mean React-Runkit works well enough for my use cases**
+
 > React Runkit component with no external scripts or stylesheets
 
 [![NPM](https://img.shields.io/npm/v/react-runkit-new.svg)](https://www.npmjs.com/package/react-runkit-new) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
